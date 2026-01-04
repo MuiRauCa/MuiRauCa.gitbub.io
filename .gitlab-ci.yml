@@ -1,5 +1,5 @@
 # 1. 공식적으로 많이 쓰이는 최신 Hugo 이미지(Extended 버전 포함)로 변경
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+image: monachus/hugo
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
